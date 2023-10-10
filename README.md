@@ -1,4 +1,4 @@
-# Basic Calculator 📟 created using reactjs by KangWooSung👨🏻‍💻
+# Basic Calculator 📟 created using reactjs
 
 ### Preview 🖼
 <img src='preview.png' width='100%' height='auto'>
